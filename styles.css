@@ -1,0 +1,23 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+    
+h1 {
+    background-color: khaki;
+    font-weight: 700;
+    color:chocolate;
+    text-align: center;
+    font-size: 200px;
+}
+.list.ol.ul {
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+html {
+    background-color: bisque;
+}
